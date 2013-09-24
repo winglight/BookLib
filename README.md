@@ -1,9 +1,9 @@
 BookLib
 =======
 
-## A personal/small book library tool, SCAN almost could make everything done
+A personal/small book library tool, SCAN almost could make everything done
 
-## 面向个人或公司组织的小型图书馆管理工具，通过扫描书本条码进行登记、借阅、归还等功能，目前功能有限，以后将继续完善增加以下功能：
+面向个人或公司组织的小型图书馆管理工具，通过扫描书本条码进行登记、借阅、归还等功能，目前功能有限，以后将继续完善增加以下功能：
 
 * 1.排序：可以按照公司书号排序、图书名字排序
 * 2.数据导出：可以直接筛选或者导出借书人员名单（或者说不在库图书的清单和借阅人、借阅时间）
@@ -20,5 +20,5 @@ BookLib
 
 ## Bug Report:
 
-* [issues](issues)
+* [issues](../../issues)
 * E-mail: vncntkarl2 At gmail.com
