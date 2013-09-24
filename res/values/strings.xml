@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Book Lib</string>
+    <string name="action_add">Add</string>
+    <string name="action_scan">Scan</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_meta">Meta Info</string>
+    <string name="book_isbn">ISBN</string>
+    <string name="save">Save</string>
+    <string name="book_lend">Lend/Return</string>
+    <string name="book_lend2">Lend</string>
+    <string name="input_lender">Input Lender:</string>
+    <string name="book_status">Status</string>
+	<string name="hint_lent_out">Book: %1$s, was Lent Out</string>
+	<string name="hint_return_back">Book: %1$s, was Return Back</string>
+	<string name="book_code">Book Code</string>
+</resources>
